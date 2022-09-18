@@ -1,0 +1,219 @@
+@font-face {
+    font-family: CHBold;
+    src: url(CooperHewitt-Bold.woff);
+}
+
+@font-face {
+    font-family: CHBold;
+    src: url(CooperHewitt-Bold.woff);
+}
+
+@font-face {
+    font-family: CHNormal;
+    src: url(CooperHewitt-Semibold.woff);
+}
+
+@font-face {
+    font-family: CHLight;
+    src: url(CooperHewitt-Medium.woff);
+}
+
+@font-face {
+    font-family: PX;
+    src: url(PXPLUS_AMSTRADPC1512.woff);
+}
+
+body {
+    background-color: rgb(173, 255, 234);
+}
+
+h1 {
+    font: 7vw CHBold, sans-serif;
+    text-align: center;
+    text-shadow: 0.5vw 0.5vw rgb(77, 128, 0);
+    color: white;
+    background-color: darkblue;
+    padding: 2vw;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    border-radius: 3vw;
+}
+
+h2 {
+    font: 4vw CHNormal, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font: 2vw PX, sans-serif;
+    text-align: left;
+}
+
+span {
+    font: 2vw CHNormal;
+    text-decoration: none;
+    color: teal;
+    text-align: center;
+    margin: 2vw 0.8vw 2vw 0.8vw;
+    line-height: 5.2vw;
+    padding: 0.5vw;
+    background-color: aquamarine;
+    border-radius: 1vw;
+}
+
+p {
+    font: 2vw CHLight;
+}
+
+li {
+    font: 2vw CHLight;
+    text-align: left;
+}
+
+a {
+    font: 2vw CHBold;
+    text-decoration: none;
+    color: teal;
+    text-align: center;
+    margin: 0.8vw;
+    padding: 0.5vw;
+    line-height: 5.2vw;
+    background-color: aquamarine;
+    box-shadow: 0.5vw 0.5vw;
+    border-radius: 1vw;
+}
+
+div {
+    text-align: center;
+}
+
+.Info {
+    background-color: cadetblue;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Likes {
+    background-color: lightgreen;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Dislikes {
+    background-color: lightcoral;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Desc {
+    background-color: rgb(62, 0, 104);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Phi {
+    background-color: rgb(0, 92, 104);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Cog {
+    background-color: rgb(73, 104, 0);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.S {
+    background-color: rgb(24, 104, 0);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.W {
+    background-color: rgb(104, 0, 0);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Panel {
+    background-color: rgb(104, 80, 0);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Interests {
+    background-color: rgb(255, 253, 157);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Stats {
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Ability {
+    background-color: rgb(255, 157, 157);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Similarity {
+    background-color: rgb(255, 229, 157);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Factor {
+    background-color: rgb(212, 255, 172);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.GD {
+    background-color: rgb(38, 0, 255);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
+
+.Fact {
+    background-color: rgb(148, 148, 148);
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    padding: 2vw;
+    border-radius: 2vw;
+}
